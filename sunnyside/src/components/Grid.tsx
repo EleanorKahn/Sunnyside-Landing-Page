@@ -4,7 +4,7 @@ import React from 'react'
 
 const Grid = () => {
     return (
-        <div>
+        <div className='landing-grid'>
             <div>
                 <div>
                     <h3>Transform your brand</h3>
