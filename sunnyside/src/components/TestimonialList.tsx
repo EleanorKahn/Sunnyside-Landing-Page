@@ -2,7 +2,7 @@ import React from 'react'
 
 const Testimonials = () => {
     return (
-        <div>
+        <div className='testimony-list'>
             <h3>CLIENT TESTIMONIALS</h3>
             {/* goal would be to render this dynamically */}
             <li>
